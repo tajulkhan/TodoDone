@@ -12,7 +12,7 @@ A simple **React** Todo List application that allows users to manage tasks. Task
 
 ## Demo
 
-[View Demo](#) *(Replace with your actual demo URL)*
+[View Demo](#) 
 
 ## Technologies
 
